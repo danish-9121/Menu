@@ -1,0 +1,17 @@
+body{
+    background-image: url('img/bg-6.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button{
+    margin-left: 500px;
+    margin-top: 300px;
+    text-decoration: none;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
