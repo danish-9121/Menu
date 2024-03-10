@@ -1,7 +1,9 @@
 body{
-    background-image: url('img/bg.jfif');
+    background-image: url('img/bg-2.jfif');
     background-repeat: no-repeat;
     background-size: cover;
+    width: auto;
+    height: 200vh;
 }
 
 .main {
