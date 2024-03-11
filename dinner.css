@@ -3,17 +3,3 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-.main {
-    margin-top: 30px;
-    text-align: center;
-    color: white;
-    text-decoration: underline;
-}
-.one {
-    margin-left: 200px;
-}
-
-.items {
-    height: 250px;
-}

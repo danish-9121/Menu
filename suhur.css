@@ -2,20 +2,4 @@ body{
     background-image: url('img/bg-2.jfif');
     background-repeat: no-repeat;
     background-size: cover;
-    width: auto;
-    height: 200vh;
-}
-
-.main {
-    margin-top: 30px;
-    text-align: center;
-    color: white;
-    text-decoration: underline;
-}
-.one {
-    margin-left: 200px;
-}
-
-.items {
-    height: 250px;
 }

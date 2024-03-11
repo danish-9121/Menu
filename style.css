@@ -3,22 +3,6 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     width: 100vw;
-    height: auto;
-}
-
-.button{
-    /* margin-left: 500px; */
-    margin-top: 300px; 
-    text-decoration: none;
-}
-
-.timetable {
-    width: auto;
-    height: 100px;
-}
-
-.link {
-    text-decoration: none;
-    color: white;
+    height: 90vh;
 }
 
